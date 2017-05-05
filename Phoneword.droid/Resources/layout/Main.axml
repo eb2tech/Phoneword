@@ -15,8 +15,13 @@
         android:id="@+id/PhoneNumberText"
         android:text="1-855-XAMARIN" />
     <Button
-        android:text="Button"
+        android:text="Translate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button1" />
+        android:id="@+id/TranslateButton" />
+    <Button
+        android:text="Call"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/CallButton" />
 </LinearLayout>
